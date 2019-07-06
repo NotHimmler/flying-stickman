@@ -1,0 +1,6 @@
+#include "pixmapflyweightfactory.h"
+
+FlyweightFactory::FlyweightFactory()
+{
+
+}
